@@ -10,7 +10,7 @@ INPUT               OUTPUT
 #include<stdio.h>
 int main(){
     int n,sum=0;
-    printf("Enter term value:");
+    printf("Enter Array size:");
     scanf("%d",&n);
     int num[n];
     printf("Enter your number:\n");

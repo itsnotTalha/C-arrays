@@ -10,7 +10,7 @@ INPUT                    OUTPUT
 #include<stdio.h>
 int main(){
     int n;
-    printf("Enter term value:");
+    printf("Enter Array size:");
     scanf("%d",&n);
     float num[n],sum=0,avg;
     printf("Enter your number:\n");

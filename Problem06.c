@@ -11,7 +11,7 @@ INPUT               OUTPUT
 #include<stdio.h>
 int main(){
     int n;
-    printf("Enter term value:");
+    printf("Enter Array size:");
     scanf("%d",&n);
     int num[n],num2[n],sum[n];
     printf("Enter your first Array:\n");
