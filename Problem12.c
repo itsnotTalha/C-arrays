@@ -21,15 +21,20 @@ int main(){
     int numb,pos;
     printf("Enter your number: ");
     scanf("%d", &numb);
-    printf(" Position: ");
+    printf("Position: ");
     scanf("%d",&pos);
     for(int i=0;i<=n;i++){
         if(i<pos)
-        cngNum
-        if(i==pos){
+        cngNum[i]=num[i];
+        else if(i==pos){
             cngNum[i]=numb;
         }
+        else
+        cngNum[i]=num[i-1];
     }
+    puts("New Array:");
+    for(int i=0;i<=n;i++)
+    printf("%d ", cngNum[i]);
 }
 /******************************************* 
  * Author- Talha Jubayer
