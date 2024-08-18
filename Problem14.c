@@ -24,9 +24,9 @@ int main(){
     for(int i=0;i<n;i++){
         scanf("%d", &num2[i]);
     }
-    int temp[m];
-    temp[]=num2[];
+    int temp1[m];
     for(int i=0;i<m;i++)
+    temp[i]=num2[i];
     printf("%d ",temp[i]);
 }
 /******************************************* 
