@@ -1,0 +1,168 @@
+##1
+WAP that will take n integer numbers into an array, and then print all the integers into
+reverse order (from the last valid index to index 0).
+_____               ______
+INPUT               OUTPUT
+-----               ------
+5                   5 4 3 2 1
+1 2 3 4 5
+
+##2
+WAP that will take n integer numbers into an array, and then sum up all the integers in
+that array.
+_____               ______
+INPUT               OUTPUT
+-----               ------
+5                    15
+1 2 3 4 5
+
+##3
+WAP that will take n integer numbers into an array, and then sum up all the even integers in that
+array.
+_____               ______
+INPUT               OUTPUT
+-----               ------
+5                     6
+1 2 3 4 5
+
+##4
+WAP that will take n floating point numbers into an array, and then find the average of those
+numbers
+_____                    ______
+INPUT                    OUTPUT
+-----                    ------
+5                          5.36
+1.2 5.6 10.3 4.5 5.2
+
+##05
+WAP that will take n integer numbers into an array, and then sum up all the even indexed
+integers in that array.
+_____               ______
+INPUT               OUTPUT
+-----               ------
+5                      9
+1 2 3 4 5
+
+##06
+Wap that will take n integer numbers in an array, n different integer numbers in a second
+array and put the sum of the same indexed numbers from the two arrays in a third array.
+_____               ______
+INPUT               OUTPUT
+-----               ------
+5                   3 10 6 8 13
+1 2 3 4 5
+2 8 3 4 8
+
+##07
+WAP that will take n integer numbers into an array, and then reverse all the integers
+within that array. Finally print them all from 0 index to last valid index.
+_____               ______
+INPUT               OUTPUT
+-----               ------
+5                   5 4 3 2 1
+1 2 3 4 5
+
+##08
+WAP that will take n integer numbers into an array, and then find the maximum -
+minimum among them with its index position.
+_____               ______
+INPUT               OUTPUT
+-----               ------
+5                   Max: 5, Index: 4
+1 2 3 4 5           Min: 1, Index: 0
+
+##09
+WAP that will take n alphabets into an array, and then count number of vowels in that
+array.
+_____               ______
+INPUT               OUTPUT
+-----               ------
+7                    Count: 5
+AKIOUEH
+
+##10
+WAP that will take n integers into an array, and then search a number into that array. If
+found then print its index. If not found then print “NOT FOUND”.
+_____               ______
+INPUT               OUTPUT
+-----               ------
+8                   FOUND at index position: 3, 7
+7 8 1 3 2 6 4 3
+3
+
+##11
+WAP that will take n integers into an array A, and then copy all numbers in reverse order
+from array A to another array B. Finally show all elements of both array A and B.
+_____               ______
+INPUT               OUTPUT
+-----               ------
+8                   Array A : 7 8 1 3 2 6 4 3
+7 8 1 3 2 6 4 3     Array B : 3 4 6 2 3 1 8 7
+
+##12
+WAP that will take n integer numbers as input in an array and then insert a number in a
+position specified by the user in the array.
+_____                           ______
+INPUT                           OUTPUT
+-----                           ------
+10                              9 11 34 23 78 16 15 2 37 89 54
+9 11 34 23 16 15 2 37 89 54
+number: 78 position: 4
+
+##13
+WAP that will take n integer numbers as input in an array and then delete a number from
+a position specified by the user in the array.
+_____                        ______
+INPUT                        OUTPUT
+-----                        ------
+10                            9 11 34 23 15 2 37 89 54  
+9 11 34 23 16 15 2 37 89 54
+position: 4
+
+##14
+WAP that will first take n integers into an array A and then m integers into array B. Now
+swap all elements between array A and B. Finally show all elements of both array A and B.
+_____               ______
+INPUT               OUTPUT
+-----               ------
+8                   Array A : 3 2 1
+7 8 1 3 2 6 4 3     Array B : 7 8 1 3 2 6 4 3
+3
+3 2 1
+
+##15
+WAP that will take n positive integers into an array A. Now find all the integers that are
+divisible by 3 and replace them by -1 in array A. Finally show all elements of array A.
+_____               ______
+INPUT               OUTPUT
+-----               ------
+8                   7 8 1 -1 2 -1 4 -1
+7 8 1 3 2 6 4 3
+
+##16
+WAP that will take n positive integers into an array A. Now find all the integers that have
+an odd index and replace them by 0 in array A. Finally show all elements of array A.
+_____               ______
+INPUT               OUTPUT
+-----               ------
+8                   7 0 1 0 2 0 4 0
+7 8 1 3 2 6 4 3
+
+##17
+WAP that will take n integers into an array A. Now sort them in ascending order within
+that array. Finally show all elements of array A.
+Reference: http://en.wikipedia.org/wiki/Bubble_sort
+_____               ______
+INPUT               OUTPUT
+-----               ------
+8                   1 2 3 3 4 6 7 8
+7 8 1 3 2 6 4 3
+
+##18
+WAP that will take n integers into an array A. Now remove all duplicates numbers from
+that array. Finally print all elements from that array.
+_____               ______
+INPUT               OUTPUT
+-----               ------
+8                   2 8 1 3 6 4
+2 8 1 3 2 6 4 3
