@@ -1,4 +1,4 @@
-##1
+##01
 WAP that will take n integer numbers into an array, and then print all the integers into
 reverse order (from the last valid index to index 0).
 _____               ______
@@ -7,7 +7,7 @@ INPUT               OUTPUT
 5                   5 4 3 2 1
 1 2 3 4 5
 
-##2
+##02
 WAP that will take n integer numbers into an array, and then sum up all the integers in
 that array.
 _____               ______
@@ -16,7 +16,7 @@ INPUT               OUTPUT
 5                    15
 1 2 3 4 5
 
-##3
+##03
 WAP that will take n integer numbers into an array, and then sum up all the even integers in that
 array.
 _____               ______
@@ -25,7 +25,7 @@ INPUT               OUTPUT
 5                     6
 1 2 3 4 5
 
-##4
+##04
 WAP that will take n floating point numbers into an array, and then find the average of those
 numbers
 _____                    ______
