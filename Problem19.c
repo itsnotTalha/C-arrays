@@ -29,6 +29,7 @@ int main(){
             printf("%d ",num[i]);
         }
     }
+    
 }
 /******************************************* 
  * Author- Talha Jubayer
