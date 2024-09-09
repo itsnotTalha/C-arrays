@@ -15,11 +15,11 @@ int main(){
     printf("Enter size of Array A & Array B :");
     scanf("%d %d",&n,&m);
     int num[n],num2[m];
-    printf("Enter your number(Araay A) :\n");
+    printf("Enter your number(Array A) :\n");
     for(int i=0;i<n;i++){
         scanf("%d", &num[i]);
     }
-    printf("Enter your number(Araay B) :\n");
+    printf("Enter your number(Array B) :\n");
     for(int i=0;i<m;i++){
         scanf("%d", &num2[i]);
     }
