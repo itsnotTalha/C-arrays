@@ -11,7 +11,7 @@ INPUT               OUTPUT
 ********************************************/
 #include<stdio.h>
 int main(){
-    int n,m;
+    int n, m;
     printf("Enter size of Array A & Array B :");
     scanf("%d %d",&n,&m);
     int num[n],num2[m];
